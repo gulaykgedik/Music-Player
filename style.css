@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #0061de;
+  background-image: linear-gradient(180deg, #0061de 0%, #fc00ff 100%);
+}
+
+.container {
+  width: 400px;
+}
+
+#progress .times,
+.card-footer,
+.volume-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.volume-container {
+  margin-right: 10px;
+}
+
+li.playing {
+  background-color: #e98cea;
+  color: #000;
+}
+li.playing:hover {
+  background-color: #ebc2ec;
+}
+
+.collapse {
+  cursor: pointer;
+}
