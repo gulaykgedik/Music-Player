@@ -14,6 +14,8 @@ ileri veya geri sarmalarını ve ses seviyesini ayarlamalarını sağlar.
 - Ses seviyesi ayarlama
 - Şarkı listesi ve zamanlayıcı
 
+  
+
 ## 🛠️ Kullanılan Teknolojiler
 <br/>
 
